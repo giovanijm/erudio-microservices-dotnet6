@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\migrations\\20240906220023_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20240906220023_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\migrations\\mysqlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\mysqlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE2F67-3503-4D74-A2ED-8C0C288A6F7B}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|e:\\projetosellos\\dotnet6\\erudio-microservices-dotnet6\\geekshooping\\geekshooping\\geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1555A70-A8E9-463F-A2CC-1FFB92AA3640}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 641,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 29,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Models\\ProductModel.cs",
+              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Models\\ProductModel.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:41:20.132Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -158,119 +147,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:37:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwDYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwEYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:39:34.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Product.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:33:52.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:33:49.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MySQLContextModelSnapshot.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:33:23.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240906220023_AddProductDataTableOnDB.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Migrations\\20240906220023_AddProductDataTableOnDB.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20240906220023_AddProductDataTableOnDB.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Migrations\\20240906220023_AddProductDataTableOnDB.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20240906220023_AddProductDataTableOnDB.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:33:20.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAiwDkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:55:07.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Program.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:49:26.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:45:01.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductVO.cs",
-              "DocumentMoniker": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
-              "ToolTip": "E:\\ProjetosEllos\\dotnet6\\erudio-microservices-dotnet6\\GeekShooping\\GeekShooping\\GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:37:58.666Z",
+              "WhenOpened": "2024-09-07T03:30:52.197Z",
               "EditorCaption": ""
             }
           ]

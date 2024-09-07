@@ -53,6 +53,143 @@ namespace GeekShopping.ProductAPI.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("product");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 3L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 165",
+                            Price = 16m
+                        },
+                        new
+                        {
+                            Id = 4L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 107",
+                            Price = 50m
+                        },
+                        new
+                        {
+                            Id = 5L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 161",
+                            Price = 54m
+                        },
+                        new
+                        {
+                            Id = 6L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 169",
+                            Price = 69m
+                        },
+                        new
+                        {
+                            Id = 7L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 159",
+                            Price = 76m
+                        },
+                        new
+                        {
+                            Id = 8L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 192",
+                            Price = 55m
+                        },
+                        new
+                        {
+                            Id = 9L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 156",
+                            Price = 47m
+                        },
+                        new
+                        {
+                            Id = 10L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 191",
+                            Price = 19m
+                        },
+                        new
+                        {
+                            Id = 11L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 183",
+                            Price = 18m
+                        },
+                        new
+                        {
+                            Id = 12L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 130",
+                            Price = 13m
+                        },
+                        new
+                        {
+                            Id = 13L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 141",
+                            Price = 55m
+                        },
+                        new
+                        {
+                            Id = 14L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 133",
+                            Price = 25m
+                        },
+                        new
+                        {
+                            Id = 15L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 187",
+                            Price = 66m
+                        },
+                        new
+                        {
+                            Id = 16L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 167",
+                            Price = 21m
+                        },
+                        new
+                        {
+                            Id = 17L,
+                            CategoryName = "T-Shirt",
+                            Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                            ImageUrl = "https://d2byg56fbf6u3p.cloudfront.net/1066/imagens/1028934419651dc879a7fc36.88469426.1696450681_l.jpg",
+                            Name = "Produto 126",
+                            Price = 39m
+                        });
                 });
 #pragma warning restore 612, 618
         }
